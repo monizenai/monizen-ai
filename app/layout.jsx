@@ -20,7 +20,7 @@ export const metadata = {
   title: "Monizen AI | Internet that moves",
   description: "MONIZEN AI delivers reliable, secure, and scalable enterprise network solutions, corporate Wi-Fi, Internet leased lines, structured cabling, and IT infrastructure management for businesses.",
   keywords: [
-    "Monizen AI", "Monizen AI services",
+    "Monizen AI", "Monizen AI services", "meigen ai", "meigen",
     "Enterprise Network Solutions", "Internet Leased Line", "LAN WAN Networking", 
     "Structured Cabling Services", "Firewalls & Network Security", "IT Infrastructure Management",
     "Unified Communications", "Carrier-Based Cloud Interconnect", "Internet Exchange",
