@@ -6,10 +6,10 @@ const LOGO_URL =
 const ORG = {
   name: 'Monizen AI',
   tagline: 'Internet that moves.',
-  email: 'hello@monizen.example', 
-  phone: '+91 00000 00000',
+  email: 'monizenai@gmail.com', 
+  phone: '+91 75697 36515',
   hours: 'Monday – Saturday, 9:00 AM – 6:00 PM',
-  location: 'India',
+  location: 'Hyderabad, Telangana, India',
 };
 
 export default async function handler(req, res) {
